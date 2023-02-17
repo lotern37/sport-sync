@@ -6,7 +6,7 @@ on:
     - cron: '30 9,10,16 * * *'
 
 env:
-  GITHUB_NAME: lotern37
+  GITHUB_NAME: loternG
   GITHUB_EMAIL: lotern@gmail.com
   AESKEY: ${{ secrets.AESKEY }}
   RQ_EMAIL: ${{ secrets.RQ_EMAIL }}
