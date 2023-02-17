@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: '30 * * * *'
 env:
-  GITHUB_NAME: lotern37
+  GITHUB_NAME: loternG
   GITHUB_EMAIL: lotern@gmail.com
   AESKEY: ${{ secrets.AESKEY }}
   SOURCE_GARMIN_AUTH_DOMAIN: ${{ secrets.SOURCE_GARMIN_AUTH_DOMAIN }}
